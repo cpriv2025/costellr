@@ -12,6 +12,10 @@
 
    `bench_aws_with_file.sh`
 
+Graph with performance values will be generated in
+
+ https://github.com/cpriv2025/costellr/blob/main/execution_time_graphs.png
+
 # TODO  
 * Explain results and potencial improvements
 * Working version of GCP
