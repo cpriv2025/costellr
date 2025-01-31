@@ -30,8 +30,3 @@ Is your solution the fastest possible in terms of cloud infrastructure setup (wh
 
 * Using `aws s3 sync` instead of `aws s3 cp` could also improve performance
 
-# TODO  
-* Explain results and potencial improvements
-* Working version of GCP
-* Minor: remove azurite, AWSlocal, move AWS to own folder
-* Use HCP as backend
