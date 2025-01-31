@@ -10,7 +10,7 @@
 
 * To benchmark performance with different parallelization values, execute:
 
-   `bench_aws_with_file.sh`
+   `./bench_aws_with_file.sh`
 
 Graph with performance values will be generated in
 
