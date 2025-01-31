@@ -24,7 +24,9 @@ Is your solution the fastest possible in terms of cloud infrastructure setup (wh
 
 * EC2 networking performance could be improve by selecting and instance with Elastic Network Adapter (ENA) support and fine tunning kernel and networking configurations 
 
-* Setting an ElastiCache for Redis can improve latency up to 98%. See: https://aws.amazon.com/blogs/storage/turbocharge-amazon-s3-with-amazon-elasticache-for-redis/
+* Setting an ElastiCache for Redis as cache layers can improve latency up to 98%. See: https://aws.amazon.com/blogs/storage/turbocharge-amazon-s3-with-amazon-elasticache-for-redis/
+
+* Using `aws s3 sync` instead of `aws s3 cp` could also improve performance
 
 # TODO  
 * Explain results and potencial improvements
