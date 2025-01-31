@@ -17,7 +17,7 @@ Graph with performance values will be generated in
  https://github.com/cpriv2025/costellr/blob/main/execution_time_graphs.png
 
 # Considerations
-To execute benchmark, to minimize cost an small instance _t3.micro_ has been selected. 
+To execute benchmark, to minimize cost an small instance _t3.micro_ has been selected. t3 instances are burstable following values apply for network baseline / Burst bandwidth:  0.064 Gbps / 5.0 Gbps. In order to discard impact additional test should be executed with more expensive instances with better network performance.
 
 # TODO  
 * Explain results and potencial improvements
