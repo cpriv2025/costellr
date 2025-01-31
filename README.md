@@ -16,6 +16,9 @@ Graph with performance values will be generated in
 
  https://github.com/cpriv2025/costellr/blob/main/execution_time_graphs.png
 
+# Considerations
+To execute benchmark a instance 
+
 # TODO  
 * Explain results and potencial improvements
 * Working version of GCP
