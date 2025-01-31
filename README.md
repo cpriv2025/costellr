@@ -17,7 +17,7 @@ Graph with performance values will be generated in
  https://github.com/cpriv2025/costellr/blob/main/execution_time_graphs.png
 
 # Considerations
-To execute benchmark a instance 
+To execute benchmark, to minimize cost an small instance _t3.micro_ has been selected. 
 
 # TODO  
 * Explain results and potencial improvements
