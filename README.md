@@ -4,7 +4,7 @@
 
   `./generate_files.sh`
 
-* To generate infra, s3 bucket and ec2 instance, execute:
+* To generate AWS infra: s3 bucket and ec2 instance, execute:
 
   `cd infra && terraform plan && terraform apply`
 
