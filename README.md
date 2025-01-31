@@ -6,7 +6,7 @@
 - [ ] To generate infra, execute:
   `cd infra && terraform plan && terraform apply`
 
-= [ ] To generate test, execute:
+- [ ] To generate test, execute:
    `bench_aws_with_file.sh`
 
 
