@@ -1,13 +1,13 @@
 
 
 Execute generate_files.sh to create test files:
-  ./generate_files.sh
+  `./generate_files.sh`
 
 To generate infra, execute:
-  cd infra && terraform plan && terraform apply
+  `cd infra && terraform plan && terraform apply`
 
 To generate test, execute:
-   bench_aws_with_file.sh
+   `bench_aws_with_file.sh`
 
 
 TODO:  
