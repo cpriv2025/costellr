@@ -4,11 +4,11 @@
 
   `./generate_files.sh`
 
-* To generate infra, execute:
+* To generate infra, s3 bucket and ec2 instance, execute:
 
   `cd infra && terraform plan && terraform apply`
 
-* To generate test, execute:
+* To benchmark performance with different parallelization values, execute:
 
    `bench_aws_with_file.sh`
 
