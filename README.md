@@ -6,7 +6,7 @@
 
 * To generate AWS infra: s3 bucket and ec2 instance, execute:
 
-  `cd infra && terraform plan && terraform apply`
+  `cd infra-aws && terraform plan && terraform apply`
 
 * To benchmark performance with different parallelization values, execute:
 
