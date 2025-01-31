@@ -26,6 +26,8 @@ Is your solution the fastest possible in terms of cloud infrastructure setup (wh
 
 * Setting an ElastiCache for Redis as cache layers can improve latency up to 98%. See: https://aws.amazon.com/blogs/storage/turbocharge-amazon-s3-with-amazon-elasticache-for-redis/
 
+* Using AWS PrivateLink for Amazon S3 for accessing S3 bucket can reduce latency
+
 * Using `aws s3 sync` instead of `aws s3 cp` could also improve performance
 
 # TODO  
